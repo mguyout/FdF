@@ -14,7 +14,7 @@ $> make
 $> ./FdF map_file
 ```
 
-## Exemple imagé
+## Exemples imagés
 
 <img src="./img/FdF1.png" width="1272" height="648" alt="Reflexion 1">
 <img src="./img/FdF2.png" width="1125" height="652" alt="Reflexion 1">
