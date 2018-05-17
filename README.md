@@ -16,4 +16,4 @@ $> ./FdF map_file
 
 ## Exemple imagé
 
-<img src="./img/FdF1.png" width="2545" height="1297" alt="Reflexion 1">
+<img src="./img/FdF1.png" width="1297" height="2545" alt="Reflexion 1">
